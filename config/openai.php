@@ -11,8 +11,9 @@ return [
     | used to authenticate with the OpenAI API - you can find your API key
     | and organization on your OpenAI dashboard, at https://openai.com.
     */
-
-    'api_key' => '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',
-    'organization' => 'org-4YQuusy4ofWTx9Ru1a31SiNv',
+	
+	'api_key' => 'ENTER_YOUR_API_KEY',
+    'organization' => 'ENTER_YOUR_ORG_KEY',
+ 
 
 ]; 
